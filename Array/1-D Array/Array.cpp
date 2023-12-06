@@ -19,6 +19,5 @@ int main()
         cout << arr[i] << " , ";
     }
     cout << arr[size - 1] << " }" << endl;
-
     return 0;
 }
