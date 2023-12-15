@@ -18,7 +18,7 @@ int main()
     num1 = num2;
     num2 = temp;
 
-    cout << "\nAfter swapping: " << endl;
+    cout << "After swapping: " << endl;
     cout << "First number: A = " << num1 << endl;
     cout << "Second number: B = " << num2 << endl;
 
