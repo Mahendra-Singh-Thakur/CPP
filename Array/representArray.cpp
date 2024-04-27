@@ -35,7 +35,7 @@ int main()
         cout << arr[i][j] << " |";
         cout << endl;
         for (int i = 0; i < columns; i++)
-        {
+        { 
             cout << "----";
         }
         cout << endl;
